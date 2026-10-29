@@ -12,7 +12,7 @@ const riveCanvas4 = document.getElementById("rive-canvas4") as HTMLCanvasElement
 const riveCanvas5 = document.getElementById("rive-canvas5") as HTMLCanvasElement;
 
 const riveSrc = new URL(
-  "./jihoonChar.riv",
+  "./jihoonChar2.riv",
   import.meta.url
 ).href;
 
